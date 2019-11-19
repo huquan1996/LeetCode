@@ -53,7 +53,7 @@ class Solution2(object):  # 方法二
                 return index
             else:
                 index+=1
-        return - 1
+        return -1
         
 
 if __name__ == "__main__":
